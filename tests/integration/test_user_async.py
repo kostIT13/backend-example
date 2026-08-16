@@ -1,4 +1,3 @@
-# tests/integration/test_users_async.py
 import pytest
 from httpx import AsyncClient
 
